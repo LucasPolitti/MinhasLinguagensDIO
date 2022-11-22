@@ -47,6 +47,9 @@ public class LinguagemFavoritaMain {
 
         System.out.println("Amanhã continuamos");
 
+
+        System.out.println("teste push terminal");
+
         
     }
 
